@@ -1,2 +1,2 @@
 # ShieldMaiden
-Honeypot for Bjorn
+Honeypot for Bjorn https://github.com/infinition/Bjorn
